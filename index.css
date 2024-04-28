@@ -1,0 +1,37 @@
+body{
+     font-size: 20px;
+}
+
+
+#main{
+     width: 80%;
+     margin: 10px auto;
+     border: 1px solid green;
+     padding: 20px;
+     
+
+
+}
+
+table>td{
+     border: 1px solid red;
+}
+
+#table{
+
+     border: 1px solid black;
+     color: blue;
+     text-align: center;
+     padding: 5px;;
+
+}
+tr{
+     border: 1px solid black;
+}
+button{
+     height: 30px;
+     width: 200px;
+     margin: 10px;
+}
+
+
